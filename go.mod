@@ -1,3 +1,3 @@
-module gaozs.ddns.net/go/util/smtpauth
+module cloudgao.vicp.net/go/util/smtpauth
 
 go 1.16
