@@ -1,3 +1,3 @@
-module cloudgao.vicp.net/go/util/smtpauth
+module github.com/go-smtpauth
 
 go 1.16
