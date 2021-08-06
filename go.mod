@@ -1,3 +1,3 @@
-module github.com/go-smtpauth
+module github.com/gaozs/smtpauth
 
 go 1.16
